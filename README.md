@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, React native**
 
-- 📝 I regularly write articles on [https://www.kostlanovec.cz/blog](www.kostlanovec.cz/blog)
+- 📝 I regularly write articles on [www.kostlanovec.cz/blog](https://www.kostlanovec.cz/blog)
 
 - 💬 Ask me about **making games**
 
