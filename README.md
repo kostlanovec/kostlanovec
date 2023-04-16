@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jan Sebastin Kostlán</h1>
+<h1 align="center">Hi 👋, I'm Jan Sebastián Kostlán</h1>
 <h3 align="center">Lazy programmer from the Czech Republic</h3>
 
 - 🌱 I’m currently learning **React, React native**
