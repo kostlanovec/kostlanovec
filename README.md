@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jan Sebastián Kostlán</h1>
 <h3 align="center">Lazy programmer from the Czech Republic</h3>
 
-- 🌱 I’m currently learning **React**
-
-- 📝 I regularly write articles on [www.kostlanovec.cz/blog](https://www.kostlanovec.cz/blog)
+- 🌱 I’m currently learning **Docker**
 
 - 💬 Ask me about **making games**
 
